@@ -11,10 +11,12 @@ I am a PhD student in the Information and Computert Science in [Fujishiro Labora
 
 Education
 ======
-- Sept. 2018 - present: PhD student, Graduate School of Science and Technology, Keio University
-- Apr. 2017 - Sept. 2018: M.E. in Computer Science, Graduate School of Science and Technology, Keio University
-- Apr. 2013 - Mar. 2017: B.E. in Computer Science, Graduate School of Science and Technology, Keio University
-- Apr. 2010 - Mar. 2013: Caritas Girls' Senior High School
+| Period          |                                                              |
+| --------        | ------------------------------------------------------------ |
+| Sept. 2018 - present   | PhD student, Graduate School of Science and Technology, Keio University |
+| Apr. 2017 - Sept. 2018   | M.E. in Computer Science, Graduate School of Science and Technology, Keio University |
+| Apr. 2013 - Mar. 2017    | B.E. in Computer Science, Graduate School of Science and Technology, Keio University |
+| Apr. 2010 - Mar. 2013    | Caritas Girls' Senior High School |
 
 Research Experience
 ======

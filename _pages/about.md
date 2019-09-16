@@ -19,9 +19,9 @@ Education
 Research Experience
 ======
 - Sept. 2018 - present: Visiting scholar, Harvard University
- - Research advisor: Prof. Hanspeter Pfister and Dr. Johanna Beyer
+  - Research advisor: Prof. Hanspeter Pfister and Dr. Johanna Beyer
 - Apr. 2017 - Aug. 2018: KAKENHI research collaborator, Keio University
- - Research advisor: Prof. Issei Fujishiro
+  - Research advisor: Prof. Issei Fujishiro
 
 Fellowships
 ======

@@ -33,7 +33,7 @@ Fellowships
 | Period                   | Position                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------ |
 | 2019   | Keio Leading-edge Laboratory of Science and Technology (KLL) 2019 Ph.D. Program Research Grant
-| Sept. 2018 - Sept. 2021 (expected)     | Doctor 21 - Yoshida Scholarship Foundation |
+| Sept. 2018 - Sept. 2021     | Doctor 21 - Yoshida Scholarship Foundation |
 | 2018   | Keio University Scholarship |
 | 2017   | Kei Mori – L. R. Klein Scholarship |
 | 2016   | Keio University Faculty of Science and Technology Alumni Association Scholarship |

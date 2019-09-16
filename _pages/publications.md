@@ -4,17 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Publication
-======
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 ## Journal
 - Issei Fujishiro, Naoko Sawada, Masanori Nakayama, Hsiang-Yun Wu, Kazuho Watanabe, Shigeo Takahashi, and Makoto Uemura. “TimeTubes: Visual Exploration of Observed Blazar Datasets,” Journal of Physics: Conference Series (JPCS), Vol. 1036, No. 1, Article No. 012011, Kyoto, Japan, 2018. DOI: 10.1088/1742-6596/1036/1/012011 [IOPscience](http://iopscience.iop.org/article/10.1088/1742-6596/1036/1/012011)
 - Makoto Uemura, Ryosuke Itoh, Ioannis Liodakis, Dmitry Blinov, Masanori Nakayama, Longyin Xu, Naoko Sawada, Hsiang-Yun Wu, Issei Fujishiro. “Optical polarization variations in the blazar PKS 1749+096,” Publications of the Astronomical Society of Japan (PASJ), Vol. 69, No. 6, Article No. 96, DOI: 10.1093/pasj/psx111, November 2017. [arXiv](https://arxiv.org/abs/1709.02524)[Oxford Academic](https://academic.oup.com/pasj/article/69/6/96/4609697)

@@ -11,6 +11,7 @@ I am a PhD student in the Information and Computert Science in [Fujishiro Labora
 
 Education
 ======
+
 | Period                   | School                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------ |
 | Sept. 2018 - present     | PhD student, Graduate School of Science and Technology, Keio University              |

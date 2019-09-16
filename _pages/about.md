@@ -29,6 +29,7 @@ Research Experience
 
 Fellowships
 ======
+
 | Period                   | Position                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------ |
 | 2019   | Keio Leading-edge Laboratory of Science and Technology (KLL) 2019 Ph.D. Program Research Grant

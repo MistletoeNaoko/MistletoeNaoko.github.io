@@ -18,6 +18,12 @@ Education
 | Apr. 2013 - Mar. 2017    | B.E. in Computer Science, Graduate School of Science and Technology, Keio University |
 | Apr. 2010 - Mar. 2013    | Caritas Girls' Senior High School |
 
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
 Research Experience
 ======
 - Sept. 2018 - present: Visiting scholar, Harvard University

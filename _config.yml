@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Naoko Sawada"
   avatar           : "nsawada_prof.jpg"
-  bio              : "Ph.D. student of Fujishiro Laboratory at Keio University, visiting scholar of Havard University"
+  bio              : "Researcher of Information Technology R&D Center, Mitsubishi Electric Corporation Visiting researcher of Mitsubishi Electric Research Laboratories in the US"
   location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.co.jp/citations?hl=en&user=7fOnDn0AAAAJ"
-  email            : "naoko.sawada@fj.ics.keio.ac.jp"
+  email            : # ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "naoko-sawada-301a54190"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9281-441X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

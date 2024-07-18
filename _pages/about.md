@@ -7,14 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the Information and Computert Science in [Fujishiro Laboratory](https://fj.ics.keio.ac.jp) at Keio University. Since September 2018, I have been a visiting scholar of the [Visual Computing Group](https://vcg.seas.harvard.edu/) at Harvard University. My research focuses on the visualizations for astronomy. 
+I am working in Mitsubishi Electric Corp. as a researcher. I got a PhD in the Information and Computert Science in [Fujishiro Laboratory](https://fj.ics.keio.ac.jp) at Keio University in 2021. Since September 2018, I was a visiting scholar of the [Visual Computing Group](https://vcg.seas.harvard.edu/) at Harvard University from 2018 to 2020. 
+
+My research interests (2024) are in visualizations for time-series data, novel view synthesis, and AR. 
 
 Education
 ======
 
 | Period                   | School                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------ |
-| Sept. 2018 - present     | PhD student, Graduate School of Science and Technology, Keio University              |
+| Jul. 2024 - present      | Visiting researcher, Mitsubishi Electric Research Laboratories                       |
+| Oct. 2021 - present      | Researcher, Information Technology R&D Center, Mitsubishi Electric Corp.             |
+| Sept. 2018 - Sept. 2021  | PhD in Computer Science, Graduate School of Science and Technology, Keio University  |
 | Apr. 2017 - Sept. 2018   | M.E. in Computer Science, Graduate School of Science and Technology, Keio University |
 | Apr. 2013 - Mar. 2017    | B.E. in Computer Science, Graduate School of Science and Technology, Keio University |
 | Apr. 2010 - Mar. 2013    | Caritas Girls' Senior High School |
@@ -24,8 +28,8 @@ Research Experience
 
 | Period                   | Position                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------ |
-| Sept. 2018 - present     | Visiting scholar, Harvard University<br>Research advisor: Prof. Hanspeter Pfister and Dr. Johanna Beyer|
-| Apr. 2017 - Aug. 2018   | KAKENHI research collaborator, Keio University<br>Research advisor: Prof. Issei Fujishiro |
+| Sept. 2018 - Apr. 2020   | Visiting scholar, Harvard University<br>Research advisor: Prof. Hanspeter Pfister and Dr. Johanna Beyer|
+| Apr. 2017 - Aug. 2018    | KAKENHI research collaborator, Keio University<br>Research advisor: Prof. Issei Fujishiro |
 
 Fellowships
 ======

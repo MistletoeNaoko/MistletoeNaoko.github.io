@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: false
 ---
 
+## Ph.D. Thesis
+- Naoko Sawada (2021). Visual Analytics of Features in Multi-Dimensional Time-Dependent Observation Datasets of Blazars \[Doctoral dissertation, Keio University\]. [Keio Associated Repository of Academic Resources](modules/xoonips/detail.php?koara_id=KO50002002-20215642-0003).
+
 ## Journal
 - _Naoko Sawada_, Makoto Uemura, Issei Fujishiro. "Multi-dimensional Time-series Subsequence Clustering for Visual Feature Analysis of Blazar Observation Datasets," Astronomy and Computing, Vol. 41, Article No. 100663, DOI: 10.1016/j.ascom.2022.100663,  November 2022. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2213133722000774)
 - _Naoko Sawada_, Makoto Uemura, Johanna Beyer, Hanspeter Pfister, and Issei Fujishiro. "TimeTubesX: A Query-Driven Visual Exploration of Observable, Photometric, and Polarimetric Behaviors of Blazars," IEEE Transactions on Visualization and Computer Graphics, Vol. 28, No. 4, pp. 1917-1929, doi: 10.1109/TVCG.2020.3025090, April 2022. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9200781)

@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am working in Mitsubishi Electric Corp. as a researcher. I got a PhD in the Information and Computert Science in [Fujishiro Laboratory](https://fj.ics.keio.ac.jp) at Keio University in 2021. Since September 2018, I was a visiting scholar of the [Visual Computing Group](https://vcg.seas.harvard.edu/) at Harvard University from 2018 to 2020. 
+I am working in Mitsubishi Electric Corporation as a researcher. From July 2024 to July 2025, I worked as a visiting researcher at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/). I got a PhD of the Information and Computer Science in [Fujishiro Laboratory](https://fj.ics.keio.ac.jp) at Keio University in 2021. Since September 2018, I was a visiting scholar of the [Visual Computing Group](https://vcg.seas.harvard.edu/) at Harvard University from 2018 to 2020. 
 
-My research interests (2024) are in visualizations for time-series data, novel view synthesis, and AR. 
+My research interests (2025) are in visualizations for time-series data, novel view synthesis, and AR. 
 
 Education
 ======
 
 | Period                   | School                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------ |
-| Jul. 2024 - present      | Visiting researcher, Mitsubishi Electric Research Laboratories                       |
+| Jul. 2024 - Jul. 2025    | Visiting researcher, Mitsubishi Electric Research Laboratories                       |
 | Oct. 2021 - present      | Researcher, Information Technology R&D Center, Mitsubishi Electric Corp.             |
 | Sept. 2018 - Sept. 2021  | PhD in Computer Science, Graduate School of Science and Technology, Keio University  |
 | Apr. 2017 - Sept. 2018   | M.E. in Computer Science, Graduate School of Science and Technology, Keio University |

@@ -11,9 +11,9 @@ title                    : "Naoko Sawada"
 title_separator          : "-"
 name                     : &name "Naoko Sawada"
 description              : &description "Researcher of Information Technology R&D Center, Mitsubishi Electric Corporation Visiting researcher of Mitsubishi Electric Research Laboratories in the US"
-url                      : https://mistletoenaoko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sawada-naoko.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MistletoeNaoko.github.io"
+repository               : "Sawada-Naoko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "naoko.sawada.739"
   foursquare       :
-  github           : "MistletoeNaoko"
+  github           : "Sawada-Naoko"
   google_plus      :
   keybase          :
   instagram        :
